@@ -1,4 +1,4 @@
-# Flixo-v2
+# Flixo-v1.5
 Flixo's v2 version code of Flixo.
 This code will never come in my bot.
 use `src/flixo.js` as a main file.
